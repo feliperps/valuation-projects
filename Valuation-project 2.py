@@ -1,5 +1,5 @@
-version 0.02
-###
+version 0.0.2
+####
 # Entrada do nome
 nome = input("Digite seu nome: ")
  
